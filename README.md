@@ -5,12 +5,12 @@ A smart, cross-platform voice assistant that listens to your commands and speaks
 
 ## Features
 
-  **Voice Recognition** - Listens and understands your commands
-  **Text-to-Speech** - Speaks responses using multiple TTS engines
-  **Time & Date** - Tells current time and date on command
-  **Web Search** - Opens Google search in your browser
-  **Cross-Platform** - Works on Windows, macOS, and Linux
-  **Simple Commands** - Easy-to-use voice interface
+  - **Voice Recognition** - Listens and understands your commands
+  - **Text-to-Speech** - Speaks responses using multiple TTS engines
+  - **Time & Date** - Tells current time and date on command
+  - **Web Search** - Opens Google search in your browser
+  - **Cross-Platform** - Works on Windows, macOS, and Linux
+  - **Simple Commands** - Easy-to-use voice interface
 
 ## Quick Start
 
