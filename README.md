@@ -25,20 +25,20 @@ python voice_assistant.py
 
 ### Try These Commands:
   
-  **"Hello"** - Greets you
-  **"What time is it?** - Tells current time  
-  **"What's the date?"** - Tells today's date
-  **"Search Python"** - Opens web search
-  **"How are you?"** - Chat response
-  **"Goodbye"** - Exits program
+    "Hello" - Greets you
+    "What time is it? - Tells current time  
+    "What's the date?" - Tells today's date
+    "Search Python" - Opens web search
+    "How are you? - Chat response
+    "Goodbye" - Exits program
 
 ## Tech Stack
    
-   **Python 3.6+** - Core language
-   **speech_recognition** - Voice input processing
-   **pyttsx3** - Text-to-speech engine
-   **Google Speech API** - Cloud-based recognition
-   **System TTS** - Native OS voice synthesis
+   - **Python 3.6+** - Core language
+   - **speech_recognition** - Voice input processing
+   - **pyttsx3** - Text-to-speech engine
+   - **Google Speech API** - Cloud-based recognition
+   - **System TTS** - Native OS voice synthesis
 
 ## How It Works
 
@@ -69,11 +69,11 @@ python voice_assistant.py
 
 ## Outcome
 
- **Fully Functional** - Responds to all basic commands  
- **Cross-Platform** - Consistent performance across OS  
- **Reliable TTS** - Multiple fallback methods  
- **Easy Setup** - Automatic dependency installation  
- **Educational** - Clean, documented code
+ - **Fully Functional** - Responds to all basic commands  
+ - **Cross-Platform** - Consistent performance across OS  
+ - **Reliable TTS** - Multiple fallback methods  
+ - **Easy Setup** - Automatic dependency installation  
+ - **Educational** - Clean, documented code
 
 ## Contributing
 
